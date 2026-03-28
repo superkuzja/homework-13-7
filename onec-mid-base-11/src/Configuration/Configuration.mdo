@@ -699,6 +699,7 @@
   <commonModules>CommonModule.КонструкторФормулКлиентСервер</commonModules>
   <commonModules>CommonModule.КонструкторФормулПовтИсп</commonModules>
   <commonModules>CommonModule.КонструкторФормулСлужебный</commonModules>
+  <commonModules>CommonModule.КЮ_КонтактныеЛицаСервер</commonModules>
   <commonModules>CommonModule.НастройкаПорядкаЭлементов</commonModules>
   <commonModules>CommonModule.НастройкаПорядкаЭлементовСлужебный</commonModules>
   <commonModules>CommonModule.НастройкаРазрешенийНаИспользованиеВнешнихРесурсовВызовСервера</commonModules>
