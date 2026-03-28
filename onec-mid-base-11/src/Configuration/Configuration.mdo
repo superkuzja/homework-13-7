@@ -699,6 +699,7 @@
   <commonModules>CommonModule.КонструкторФормулКлиентСервер</commonModules>
   <commonModules>CommonModule.КонструкторФормулПовтИсп</commonModules>
   <commonModules>CommonModule.КонструкторФормулСлужебный</commonModules>
+  <commonModules>CommonModule.КЮ_КонтактныеЛицаСервер</commonModules>
   <commonModules>CommonModule.НастройкаПорядкаЭлементов</commonModules>
   <commonModules>CommonModule.НастройкаПорядкаЭлементовСлужебный</commonModules>
   <commonModules>CommonModule.НастройкаРазрешенийНаИспользованиеВнешнихРесурсовВызовСервера</commonModules>
@@ -1191,6 +1192,8 @@
   <catalogs>Catalog.КлючиДоступа</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.КонтрагентыПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.КЮ_Должности</catalogs>
+  <catalogs>Catalog.КЮ_КонтактныеЛица</catalogs>
   <catalogs>Catalog.МакетыПечатныхФорм</catalogs>
   <catalogs>Catalog.НаборыГруппДоступа</catalogs>
   <catalogs>Catalog.НаборыДополнительныхРеквизитовИСведений</catalogs>
